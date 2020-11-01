@@ -6,4 +6,4 @@ int main(void){
 	printf("water")
 	return 0;
 
-}
+ }
