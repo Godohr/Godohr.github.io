@@ -4,6 +4,9 @@
 #
 # On branch master
 # Changes to be committed:
+#	new file:   hello1.c
+#
+# Changes not staged for commit:
 #	modified:   hello.c
 #
 # Untracked files:
